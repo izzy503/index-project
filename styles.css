@@ -1,6 +1,7 @@
 /* Set the font size of the body to 16 pixels */
 body {
     font-size: 16px;
+    background-color: crimson;
   }
   
   /* Set the font size of the paragraph to 1.2 times the font size of the body (19.2 pixels) */
