@@ -1,35 +1,35 @@
-/* Set the font size of the body to 16 pixels */
+
 body {
     font-size: 16px;
     background-color: crimson;
   }
   
-  /* Set the font size of the paragraph to 1.2 times the font size of the body (19.2 pixels) */
+   font size of the body (19.2 pixels) */
   p {
     font-size: 1.2em;
   }
   
-  /* Set the margin-top of the heading to 2 em (32 pixels) */
+  
   h1 {
     margin-top: 2em;
   }
   
-  /* Set the width of the div to 50% of its parent's width */
+  
   div {
     width: 50%;
   }
   
-  /* Set the padding of the button to 0.5 em (8 pixels) */
+  
   button {
     padding: 0.5em;
   }
   
-  /* Set the font weight of the strong section to bold */
+  
   strong {
     font-weight: bold;
   }
   
-  /* Add the new CSS code for the .container class */
+  
   .container {
     background-color: #f2f2f2;
     padding: 20px;
