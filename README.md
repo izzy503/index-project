@@ -37,6 +37,7 @@ By combining these tools and technologies, you can create an engaging "About Me"
 ## Known Bugs
 
 * _styless css has unknown bug_
+* _edit fixed unknown bug in css
 
 
 ## License
