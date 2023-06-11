@@ -30,21 +30,17 @@ By combining these tools and technologies, you can create an engaging "About Me"
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* no installation needed aside from chrome
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _styless css has unknown bug_
+
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{Any issues or concerns please contact mne at ipadilla2280@gmail.comn.}_
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _10 june 2023_Israel Padilla_
